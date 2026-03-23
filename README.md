@@ -25,7 +25,7 @@
 * Converts prompts → executable in-game powers
 * Tested with 10+ diverse abilities
 
-🔗 [View Project](#) ← (we’ll replace this)
+🔗 [View Project](#) 
 
 ---
 
@@ -60,13 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Optional: Add later -->
-
----
-
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-link
-* Portfolio: your-portfolio-link
+* LinkedIn: 
+* Portfolio:
