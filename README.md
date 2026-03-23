@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Siddhant Sharma 👋
 
-<!--
-**Siddhant2306/Siddhant2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering Intern | Systems + AI + Game Development
+💡 Building real-time AI systems, simulations, and performance-driven applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+
+* 🧠 Build AI-driven systems (LLM + Agents + Tooling)
+* 🎮 Develop games and real-time mechanics in Unity (C#)
+* ⚙️ Work on systems programming & performance (C++)
+* 📊 Explore algorithmic trading and backtesting strategies
+
+---
+
+## 🧪 Featured Projects
+
+### ⚡ AI Superpower Generation System
+
+> Turn imagination into real gameplay mechanics using AI
+
+* Real-time system (~5–10s latency)
+* Uses **Anthropic + MCP tools + Unity integration**
+* Converts prompts → executable in-game powers
+* Tested with 10+ diverse abilities
+
+🔗 [View Project](#) ← (we’ll replace this)
+
+---
+
+### 📈 Algorithmic Trading Bot
+
+> Mean-reversion strategy with long-term evaluation
+
+* 20-year walk-forward backtesting
+* Built custom signal + execution pipeline
+* Explored failure cases & market behavior
+
+🔗 [View Project](#)
+
+---
+
+### 👻 Unity Horror Anomaly Game
+
+> Detect anomalies in a dynamic horror environment
+
+* Coroutine-based anomaly system
+* 5–6 dynamic anomalies
+* Modular gameplay architecture
+
+🔗 [View Project](#)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, C#, Python, Java
+**Tools:** Unity, FastAPI, OpenCV, SFML, Git, Docker
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Optional: Add later -->
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-link
+* Portfolio: your-portfolio-link
