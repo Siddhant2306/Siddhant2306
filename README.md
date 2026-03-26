@@ -30,23 +30,23 @@
 
 ## 📊 GitHub Analytics  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=siddhant2306&show_icons=true&theme=tokyonight&border_radius=12)
+![Stats](https://github-readme-stats.vercel.app/api?username=Siddhant2306&show_icons=true&theme=tokyonight&border_radius=12)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhant2306&theme=tokyonight&border_radius=12)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhant2306&theme=tokyonight&border_radius=12)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant2306&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant2306&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Activity  
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddhant2306&theme=react-dark&area=true)
 
 ---
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Siddhant2306/Siddhant2306/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -67,14 +67,6 @@
 ### 🔹 Code Translation Framework  
 💡 Source-to-source compiler using AST and Intermediate Representation  
 🔗 https://your-project-link  
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 LinkedIn → https://linkedin.com/in/YOUR_LINKEDIN  
-- 📸 Instagram → https://instagram.com/YOUR_INSTAGRAM  
-- 🌍 Portfolio → https://your-portfolio-link  
 
 ---
 
