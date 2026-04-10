@@ -10,6 +10,7 @@
 ✨ I build systems, not just code  
 🎮 Game developer focused on **mechanics, performance & experience**  
 ⚡ Strong in **C++, Unity, and computational problem solving**  
+🌍 Open-source contributor to **prmon (process monitoring tool)**  
 🚀 Goal: Become a **Quantitative Researcher & Advanced Systems Engineer**  
 
 ---
@@ -20,6 +21,7 @@
 - 🧠 Algorithm Design & Problem Solving  
 - ⚡ Optimization & System Design  
 - 🤖 Exploring AI-driven systems & automation  
+- 🌍 Open-source contributions (prmon)  
 
 ---
 
@@ -48,21 +50,21 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 AI-Driven RPG System (Project Niyati)  
-💡 Dynamic quest & world generation using AI  
-🔗 https://your-project-link  
-
-### 🔹 Unity Game Projects  
+### 🔹 Anomaly Horror Game  
 💡 Gameplay systems, physics simulations, and experimental mechanics  
-🔗 https://your-project-link  
-
-### 🔹 Discord Bot (C#)  
-💡 Voice-enabled bot with automation and moderation features  
-🔗 https://your-project-link  
+🔗 https://github.com/Siddhant2306/Unity_practice  
 
 ### 🔹 Code Translation Framework  
 💡 Source-to-source compiler using AST and Intermediate Representation  
-🔗 https://your-project-link  
+🔗 https://github.com/Siddhant2306/Logical-Regex-for-code  
+
+### 🔹 Scalping Bot (Live Trading Bot)  
+💡 Developed a live scalping trading bot that autonomously executes buy and sell trades based on real-time market data and strategy signals  
+🔗 https://github.com/Siddhant2306/scalping-bot  
+
+### 🔹 MCP Tools (Unity – Creative Superpowers)  
+💡 Developed MCP tools in Unity to design and implement dynamic, interactive superpower systems  
+🔗 https://github.com/Siddhant2306/Cursed-Engine  
 
 ---
 
@@ -89,4 +91,4 @@
 
 ---
 
-✨ *Let’s build something powerful together!* ✨
+✨ *Let’s build something powerful together!* ✨  
